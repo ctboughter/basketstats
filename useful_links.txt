@@ -1,0 +1,13 @@
+# So this will just be a nice place to store useful links related to this project.
+# Do not include things that can already be found in the Jupyter notebook.
+# Instead, include links that may be useful for new lessons in the curriculum
+
+#### Useful Materials for Homework? ####
+This site breaks down the pros and cons of advanced stats. Could be useful to either have students
+read or to look at myself and discuss some of the nuances in the data
+https://bleacherreport.com/articles/1040309-understanding-the-nba-explaining-advanced-defensive-stats-and-metrics
+
+#### Quite Advanced Concepts #####
+These two deal with fairly advanced concepts in stats (likely too advanced for HS kids)
+http://varianceexplained.org/statistics/beta_distribution_and_baseball/
+http://varianceexplained.org/r/empirical_bayes_baseball/
